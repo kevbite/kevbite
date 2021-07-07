@@ -16,7 +16,7 @@ You can find me: [Twitter](https://twitter.com/kev_bite), [LinkedIn](https://www
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-#### Open source projects
+#### Open source .NET packages
 
 | 🎁 Projects             | ⭐ Stars                | 🍴 Forks | 🛎 Issues | 📬 Pull requests | Downloads |
 | ----------------------- | ------------------------ |----------- | ----------- |----------- | ---------------- |
