@@ -33,8 +33,6 @@ You can find me: [Twitter](https://twitter.com/kev_bite), [LinkedIn](https://www
 | [Kevsoft.Azure.WebJobs.Extensions.MongoDB]         | ![Stars][WJMDB Stars] | ![Forks][WJMDB Forks] | ![Issues][WJMDB Issues] | ![Pull requests][WJMDB PRs] | ![Downloads][WJMDB DL] |
 | [MassTransit.AWSKeyManagementService]         | ![Stars][MTAWSKMS Stars] | ![Forks][MTAWSKMS Forks] | ![Issues][MTAWSKMS Issues] | ![Pull requests][MTAWSKMS PRs] | ![Downloads][MTAWSKMS DL] |
 
-
-
 [CompaniesHouse.NET]: https://github.com/kevbite/CompaniesHouse.NET
 [CH.NET Stars]: https://img.shields.io/github/stars/kevbite/CompaniesHouse.NET?style=flat-square&labelColor=343b41
 [CH.NET Forks]: https://img.shields.io/github/forks/kevbite/CompaniesHouse.NET?style=flat-square&labelColor=343b41
@@ -90,4 +88,18 @@ You can find me: [Twitter](https://twitter.com/kev_bite), [LinkedIn](https://www
 [MTAWSKMS Issues]: https://img.shields.io/github/issues/kevbite/BigChange.MassTransit.AWSKeyManagementService?style=flat-square&labelColor=343b41
 [MTAWSKMS PRs]: https://img.shields.io/github/issues-pr/kevbite/BigChange.MassTransit.AWSKeyManagementService?style=flat-square&labelColor=343b41
 [MTAWSKMS DL]: http://img.shields.io/nuget/dt/BigChange.MassTransit.AWSKeyManagementService.svg?style=flat-square
+
+#### Open source npm packages
+
+| 🎁 Projects             | ⭐ Stars                | 🍴 Forks | 🛎 Issues | 📬 Pull requests | Downloads |
+| ----------------------- | ------------------------ |----------- | ----------- |----------- | ---------------- |
+| [mui-chat-box]    | ![Stars][mui-chat-box Stars] | ![Forks][mui-chat-box Forks] | ![Issues][mui-chat-box Issues] | ![Pull requests][mui-chat-box PRs] | ![Downloads][mui-chat-box DL] |
+
+
+[mui-chat-box]: https://github.com/kevbite/mui-chat-box
+[mui-chat-box Stars]: https://img.shields.io/github/stars/kevbite/mui-chat-box?style=flat-square&labelColor=343b41
+[mui-chat-box Forks]: https://img.shields.io/github/forks/kevbite/mui-chat-box?style=flat-square&labelColor=343b41
+[mui-chat-box Issues]: https://img.shields.io/github/issues/kevbite/mui-chat-box?style=flat-square&labelColor=343b41
+[mui-chat-box PRs]: https://img.shields.io/github/issues-pr/kevbite/mui-chat-box?style=flat-square&labelColor=343b41
+[mui-chat-box DL]: http://img.shields.io/npm/dm/mui-chat-box.svg?style=flat-square
 
